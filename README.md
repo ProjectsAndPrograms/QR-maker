@@ -35,7 +35,7 @@ java -jar 'QR app.jar'
    and choose your workspace.
 
 <b>Step-2 :</b> Open eclipse IDE : 
-     <i>go to file->Open Project from file system-> locate your workspace and select the project(WebChatApp) folder -> click on open -> finish</i>
+     <i>go to file->Open Project from file system-> locate your workspace and select the project(QR-maker) folder -> click on open -> finish</i>
 
 <b>Step-2 :</b>To run QR-maker <i>right click on QR-maker -> Run As -> Java Application</i>
 
