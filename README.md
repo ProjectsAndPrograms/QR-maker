@@ -17,3 +17,19 @@ Generates QR codes. Created in java swing.
     </div>
 </div>
 <br>
+
+## How to use ?
+
+<b>Windows user : </b>To simply use this application just dubble click on 'QR app.jar'
+<br>
+<b>Linux user :</b>open terminal -> locate your directory where you unzip the downloaded file using terminal and use command to run QR-Maker
+```bash
+java -jar 'QR app.jar'
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
