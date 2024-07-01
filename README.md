@@ -1,5 +1,5 @@
 # QR-maker
-Generates QR codes. Created in java swing.
+Generates QR codes. Created in java swing. 
 
 ## Screenshots
 
